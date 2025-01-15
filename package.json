@@ -1,0 +1,14 @@
+{
+  "name": "jwk-generator",
+  "version": "1.0.0",
+  "description": "Generate JWK from a public key",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "AnweshDahal",
+  "license": "MIT",
+  "dependencies": {
+    "jose": "^5.9.6"
+  }
+}
